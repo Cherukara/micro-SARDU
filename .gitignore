@@ -1,0 +1,32 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+ipynb_checkpoints
+
+# Environments
+env
+venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MATLAB things
+*.asv
+*.m~
+
+# Large nifti files
+*.nii
+*.nii.gz
+
+# Input data
+input_data/
+
+# Training data
+sardutrain/

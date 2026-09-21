@@ -1,0 +1,11 @@
+name: microSARDU
+channels:
+  - defaults
+dependencies:
+  - nibabel
+  - scipy
+  - pip
+  - numpy
+  - ipykernel
+  - python
+prefix: /home/cherukara/miniconda3/envs/microSARDU

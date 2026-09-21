@@ -1,0 +1,517 @@
+     51069:	find library=libpthread.so.0 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/glibc-hwcaps/x86-64-v3/libpthread.so.0
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/glibc-hwcaps/x86-64-v2/libpthread.so.0
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libpthread.so.0
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/libpthread.so.0
+     51069:	
+     51069:	find library=libdl.so.2 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libdl.so.2
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/libdl.so.2
+     51069:	
+     51069:	find library=libutil.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libutil.so.1
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/libutil.so.1
+     51069:	
+     51069:	find library=libm.so.6 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libm.so.6
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/libm.so.6
+     51069:	
+     51069:	find library=libc.so.6 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libc.so.6
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/libc.so.6
+     51069:	
+     51069:	
+     51069:	calling init: /lib64/ld-linux-x86-64.so.2
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/libc.so.6
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/libm.so.6
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/libutil.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/libdl.so.2
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/libpthread.so.0
+     51069:	
+     51069:	
+     51069:	initialize program: python
+     51069:	
+     51069:	
+     51069:	transferring control: python
+     51069:	
+     51069:	find library=libffi.so.8 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../glibc-hwcaps/x86-64-v3/libffi.so.8
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../glibc-hwcaps/x86-64-v2/libffi.so.8
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libffi.so.8
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libffi.so.8
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_struct.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_opcode.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/math.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_typing.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_socket.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_pickle.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=libz.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libz.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libz.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/zlib.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=libbz2.so.1.0 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libbz2.so.1.0
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libbz2.so.1.0
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_bz2.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=liblzma.so.5 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../liblzma.so.5
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../liblzma.so.5
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_lzma.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_bisect.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_random.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_sha512.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_json.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/fcntl.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_posixsubprocess.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/select.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_datetime.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/array.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=libcudart.so.13 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v3/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v2/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v3/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v2/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v3/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v2/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v3/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v2/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v3/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v2/libcudart.so.13
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libcudart.so.13
+     51069:	
+     51069:	find library=libgomp.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/glibc-hwcaps/x86-64-v3/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/glibc-hwcaps/x86-64-v2/libgomp.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libgomp.so.1
+     51069:	
+     51069:	find library=librt.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/librt.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/librt.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/librt.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/librt.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/librt.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/librt.so.1
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/librt.so.1
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/librt.so.1
+     51069:	
+     51069:	find library=libstdc++.so.6 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libstdc++.so.6
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libstdc++.so.6
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libstdc++.so.6
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libstdc++.so.6
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libstdc++.so.6
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libstdc++.so.6
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libstdc++.so.6
+     51069:	
+     51069:	find library=libgcc_s.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libgcc_s.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libgcc_s.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libgcc_s.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libgcc_s.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libgcc_s.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libgcc_s.so.1
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libgcc_s.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libgcc_s.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libstdc++.so.6
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/librt.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libgomp.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libcudart.so.13
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcublasLt.so.13
+     51069:	
+     51069:	find library=libcuda.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib		(RUNPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcublasLt.so.13)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/glibc-hwcaps/x86-64-v3/libcuda.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/glibc-hwcaps/x86-64-v2/libcuda.so.1
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcuda.so.1
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/usr/lib/wsl/lib/libcuda.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /usr/lib/wsl/lib/libcuda.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcublas.so.13
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cudnn/lib/libcudnn.so.9
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libnvrtc.so.13
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libnvrtc-builtins.so.13.2
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcupti.so.13
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcufft.so.12
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcurand.so.10
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libnvJitLink.so.13
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcusparse.so.12
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cusparselt/lib/libcusparseLt.so.0
+     51069:	
+     51069:	python: error: symbol lookup error: undefined symbol: InitializeInjectionCaskEnhanced (fatal)
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcusolver.so.12
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/nccl/lib/libnccl.so.2
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/nvshmem/lib/libnvshmem_host.so.3
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/nvidia/cu13/lib/libcufile.so.0
+     51069:	
+     51069:	find library=libtorch_python.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/glibc-hwcaps/x86-64-v3:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/glibc-hwcaps/x86-64-v2:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/_C.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v3/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cudnn/lib/glibc-hwcaps/x86-64-v2/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cudnn/lib/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v3/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nvshmem/lib/glibc-hwcaps/x86-64-v2/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nvshmem/lib/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v3/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nccl/lib/glibc-hwcaps/x86-64-v2/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/nccl/lib/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v3/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cusparselt/lib/glibc-hwcaps/x86-64-v2/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cusparselt/lib/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v3/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cu13/lib/glibc-hwcaps/x86-64-v2/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/../../nvidia/cu13/lib/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/glibc-hwcaps/x86-64-v3/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/glibc-hwcaps/x86-64-v2/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/libtorch_python.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_python.so
+     51069:	
+     51069:	find library=libtorch.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libtorch.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libtorch.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libtorch.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libtorch.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libtorch.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch.so
+     51069:	
+     51069:	find library=libshm.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libshm.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libshm.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libshm.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libshm.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libshm.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libshm.so
+     51069:	
+     51069:	find library=libtorch_cpu.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libtorch_cpu.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libtorch_cpu.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libtorch_cpu.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libtorch_cpu.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libtorch_cpu.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_cpu.so
+     51069:	
+     51069:	find library=libtorch_cuda.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libtorch_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libtorch_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libtorch_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libtorch_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libtorch_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_cuda.so
+     51069:	
+     51069:	find library=libc10_cuda.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libc10_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libc10_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libc10_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libc10_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libc10_cuda.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libc10_cuda.so
+     51069:	
+     51069:	find library=libc10.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libc10.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libc10.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libc10.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libc10.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libc10.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libc10.so
+     51069:	
+     51069:	find library=libtorch_nvshmem.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib:/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_global_deps.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cudnn/lib/libtorch_nvshmem.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nvshmem/lib/libtorch_nvshmem.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/nccl/lib/libtorch_nvshmem.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cusparselt/lib/libtorch_nvshmem.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/../../nvidia/cu13/lib/libtorch_nvshmem.so
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_nvshmem.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libc10.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_cpu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_nvshmem.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libc10_cuda.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_cuda.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libshm.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/lib/libtorch_python.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/_C.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_heapq.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/grp.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/mmap.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/driver.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/cydriver.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/_bindings/cydriver.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/runtime.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/cyruntime.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/_bindings/cyruntime.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/cuda/bindings/_bindings/cyruntime_ptds.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/binascii.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_csv.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_queue.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=libcrypto.so.3 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libcrypto.so.3
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libcrypto.so.3
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_hashlib.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_blake2.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_contextvars.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/cmath.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=libuuid.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libuuid.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libuuid.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_uuid.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	find library=libssl.so.3 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../..		(RPATH from file /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libssl.so.3
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/../../libssl.so.3
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_ssl.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_multiprocessing.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_posixshmem.cpython-311-x86_64-linux-gnu.so
+     51069:	
+     51069:	
+     51069:	calling init: /home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/lib-dynload/_asyncio.cpython-311-x86_64-linux-gnu.so
+     51069:	
+/home/cherukara/miniconda3/envs/torch-clean/lib/python3.11/site-packages/torch/_subclasses/functional_tensor.py:368: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at /__w/pytorch/pytorch/torch/csrc/utils/tensor_numpy.cpp:84.)
+  cpu = _conversion_method_template(device=torch.device("cpu"))
+     51069:	find library=libdxcore.so [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libdxcore.so
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/usr/lib/wsl/lib/libdxcore.so
+     51069:	
+     51069:	
+     51069:	calling init: /usr/lib/wsl/lib/libdxcore.so
+     51069:	
+     51069:	
+     51069:	calling init: /usr/lib/wsl/drivers/nvdm.inf_amd64_c1d134986f010b5d/libcuda.so.1.1
+     51069:	
+     51069:	/usr/lib/wsl/drivers/nvdm.inf_amd64_c1d134986f010b5d/libcuda.so.1.1: error: symbol lookup error: undefined symbol: cuPvtCompilePtx (fatal)
+     51069:	/usr/lib/wsl/drivers/nvdm.inf_amd64_c1d134986f010b5d/libcuda.so.1.1: error: symbol lookup error: undefined symbol: cuPvtBinaryFree (fatal)
+     51069:	
+     51069:	calling init: /usr/lib/wsl/drivers/nvdm.inf_amd64_c1d134986f010b5d/libnvdxgdmal.so.1
+     51069:	
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTOpenSyncObjectFromNtHandle (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTAcquireKeyedMutex (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTReleaseKeyedMutex (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTOpenKeyedMutex (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTRegisterTrimNotification (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTUnregisterTrimNotification (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTCreateNativeFence (fatal)
+     51069:	/usr/lib/wsl/lib/libdxcore.so: error: symbol lookup error: undefined symbol: D3DKMTOpenNativeFenceFromNtHandle (fatal)
+     51069:	find library=libnvidia-ptxjitcompiler.so.1 [0]; searching
+     51069:	 search path=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib		(RPATH from file python)
+     51069:	  trying file=/home/cherukara/miniconda3/envs/torch-clean/bin/../lib/libnvidia-ptxjitcompiler.so.1
+     51069:	 search cache=/etc/ld.so.cache
+     51069:	  trying file=/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1
+     51069:	
+     51069:	
+     51069:	calling init: /lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.1
+     51069:	

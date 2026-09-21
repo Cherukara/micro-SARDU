@@ -159,7 +159,9 @@ if __name__ == "__main__":
 	print ('')
 	print('  ..... creating training and validation sets (ratio: {}%/{}%), please wait'.format( np.round((1.0 - valratio)*100.0) , np.round(valratio*100.0)  ) )
 	ntot = datacat.shape[0]
-	nval = np.int(np.round(valratio*ntot))
+
+	# MTC - replaced call to deprecated "np.int" with "int" 
+	nval = int(np.round(valratio*ntot))
 	idx_val = np.zeros((ntot),dtype=bool)
 	pick_val = np.random.choice(ntot, nval, replace=False)
 	idx_val[pick_val] = True

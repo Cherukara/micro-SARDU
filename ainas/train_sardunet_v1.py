@@ -222,9 +222,17 @@ if __name__ == "__main__":
 		datavtar = np.float32( (datavtar - min_val) / (max_val - min_val) )	
 
 	### Create mini-batches on training data with data loader
-	loadertrain = DataLoader(datatrain, batch_size=mbatch, shuffle=True, num_workers=nwork)
+
+	# MTC testing this with fewer workers to see if it works better
+	# Original line:
+	# loadertrain = DataLoader(datatrain, batch_size=mbatch, shuffle=True, num_workers=nwork)
+	# New line:
+	loadertrain = DataLoader(datatrain, batch_size=mbatch, shuffle=True, num_workers=0, pin_memory=False, persistent_workers=False)
 	if args.ttar is not None:
-		loadertrain = DataLoader(np.concatenate((datatrain,datattar),axis=1), batch_size=mbatch, shuffle=True, num_workers=nwork)
+		# Original line:
+		# loadertrain = DataLoader(np.concatenate((datatrain,datattar),axis=1), batch_size=mbatch, shuffle=True, num_workers=nwork)
+		# New line:
+		loadertrain = DataLoader(np.concatenate((datatrain,datattar),axis=1), batch_size=mbatch, shuffle=True, num_workers=0, pin_memory=False, persistent_workers=False)
 
 	### Allocate memory for losses
 	nobatch=0   # Count how many mini-batches of size mbatch we created

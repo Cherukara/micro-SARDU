@@ -1,4 +1,8 @@
-# SARDU-Net
+# micro-SARDU
+
+Matthew Cherukara's fork of the **SARDU-Net** project:
+
+## SARDU-Net
 "***Select and retrieve via direct upsampling***" network (SARDU-Net) enables model-free, data-driven quantitative MRI (qMRI) protocol design.
 
 SARDU-Net selects subsets of informative qMRI measurements within lengthy pilot scans. The algorithm consists of two deep neural networks (DNNs) that are trained jointly end-to-end: a ***selector*** identifies a subset of input qMRI measurements, while a ***predictor*** estimates the fully-sampled signals from such a subset. 
