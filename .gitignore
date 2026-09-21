@@ -30,3 +30,6 @@ input_data/
 
 # Training data
 sardutrain/
+
+# Output data
+sarduout/
